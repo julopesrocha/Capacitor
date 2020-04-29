@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.geoapp",
+  "appName": "geoApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

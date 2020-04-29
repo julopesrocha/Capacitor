@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.camera",
+  "appName": "camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
